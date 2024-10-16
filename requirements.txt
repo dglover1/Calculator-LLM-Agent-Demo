@@ -1,1 +1,1 @@
-transformers[agents]
+transformers[agents]==4.45.2
